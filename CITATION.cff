@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "gk_dd_cert — extrator de certificados DD (Teorema DD_Res em P executavel)"
+message: "Se você usar esta ferramenta, cite o repositório-mãe e este software."
+type: software
+authors:
+  - family-names: "Soares dos Santos"
+    given-names: "Euzébio"
+    role: author
+license: MIT
+repository-code: "https://github.com/ebiossanto/IA-Research-GK-DD-Cert"
+url: "https://github.com/ebiossanto/IA-Research-GK-DD-Cert"
+abstract: "Núcleo: **Teorema 4.3** (`DD_Res ∈ P`) do projeto Gödel–Krajíček — π (DRAT/DAG/saturação) → certificado da sub-derivação pura + verificador independente."
+keywords: ["proof-complexity", "bounded-arithmetic", "goedel", "krajicek",
+  "formal-methods", "reproducible-research"]
+preferred-citation:
+  type: software
+  title: "gk_dd_cert — extrator de certificados DD (Teorema DD_Res em P executavel)"
+  author:
+    - family-names: "Soares dos Santos"
+      given-names: "Euzébio"
+  year: 2026
+  url: "https://github.com/ebiossanto/IA-Research-GK-DD-Cert"
+  notes: "Extraido do repositorio IA-research-Godel-e-Krajicek (MIT)."
